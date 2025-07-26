@@ -62,6 +62,8 @@ An explanation of photosynthesis
 Agent Execution Result
 Handled by: main_agent
 
+
+
 New Items:
 - Your Current Location is Karachi, Pakistan!
 - 📰 Monsoon Rains Hit Karachi Again ...
@@ -76,3 +78,8 @@ Feel free to fork and contribute by adding new tools or agents!
 
 📄 License
 This project is for educational/demo purposes. Adapt and extend freely.
+
+![WhatsApp Image 2025-07-27 at 00 24 07_0d51ecb5](https://github.com/user-attachments/assets/8204d318-4dd7-48ba-adfa-611be71e8db4)
+
+![WhatsApp Image 2025-07-27 at 00 24 29_039c3feb](https://github.com/user-attachments/assets/6e73a2fd-dd98-499c-b214-64188b8290dc)
+
